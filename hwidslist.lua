@@ -1,5 +1,5 @@
 local HWIDS = {
     "2c8a8c7c-a73f-44e0-898e-dd582b643295",
-    "hwid2",
+    "F5049C7F-AA91-4EC7-9715-D8B011D8D42B",
 }
 return HWIDS
